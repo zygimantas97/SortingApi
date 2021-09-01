@@ -7,5 +7,6 @@ namespace SortingApi.Contracts.V1.Responses
 {
     public class SortingResponse
     {
+        public string SortedSequenceę { get; set; }
     }
 }
